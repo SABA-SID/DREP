@@ -8,4 +8,4 @@ rm -rf DREP
 
 git clone https://github.com/SABA-SID/DREP
 cd DREP
-python ALG3.py
+python ALG4.py
