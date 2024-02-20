@@ -6,4 +6,4 @@ git clone https://github.com/SABA-SID/DREP
 
 cd DREP
 
-python wow.py
+python DREP8.py
