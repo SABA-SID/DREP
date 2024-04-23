@@ -1,9 +1,15 @@
-*New Update 15.8 💚🌿
+WELCOME  Code tool:  DREP
+ JOIN  TO MY GROUP TELGRAM:
+https://t.me/tmsit
 
-rm -rf DREP
+UPDATE- 16.3
 
-git clone https://github.com/SABA-SID/DREP 
+METHOD  /1/
 
+IS WORKING 
+
+Rm - DREP
+git clone https://github.com/SABA-SID/DREP.git
 cd DREP
-
-python DREP.co
+git pull 
+python DREP.x
