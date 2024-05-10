@@ -3,7 +3,7 @@ DREP TOOL 🇦🇱
  JOIN  TO MY GROUP TELGRAM:
 https://t.me/tmsit
 
-UPDATE- 20.1
+UPDATE- 20.2
 
 METHOD  /1/2/3/4/5/ done Update 🇦🇱
 
