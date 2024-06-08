@@ -3,13 +3,13 @@ DREP TOOL 🇦🇱✅
  JOIN  TO MY GROUP TELGRAM:
 https://t.me/tmsit
 
-UPDATE- 20.5
+UPDATE- 20.6
 
-METHOD  /1/2/3/4/5/ done Update 🇦🇱
+METHOD  /1/2/3/ done Update 🇦🇱
 
 Done UPDATE TOOL 🇦🇱 FREE 
 
-Rm - DREP
+rm -rf DREP
 git clone https://github.com/SABA-SID/DREP.git
 cd DREP
 git pull 
