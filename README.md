@@ -3,7 +3,7 @@
 JOIN  TO MY GROUP TELGRAM:
 # https://t.me/tmsit🦅🖤
 
-UPDATE- 1.3
+UPDATE- 1.7
 
 
 # FREE 
